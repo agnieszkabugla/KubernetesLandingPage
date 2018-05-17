@@ -12,13 +12,13 @@
   "author": "Agnieszka Bugla",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
     "express-static": "^1.2.5",
-    "nodemailer": "^4.4.1"
+    "nodemailer": "^4.6.4"
   },
   "devDependencies": {
-    "node-sass": "^4.7.2",
-    "nodemon": "^1.14.11"
+    "node-sass": "^4.9.0",
+    "nodemon": "^1.17.4"
   }
 }
